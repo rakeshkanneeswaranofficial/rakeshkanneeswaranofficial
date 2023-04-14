@@ -34,7 +34,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krishmakhijani&theme=tokyonight_duo" alt="krishmakhijani" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshkanneeswaranofficial&theme=tokyonight_duo" alt="krishmakhijani" /></p>
 
 </details>
   
