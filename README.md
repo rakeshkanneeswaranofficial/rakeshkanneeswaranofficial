@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <h1 align="center">Hi 👋, I'm Rakesh Kanneeswaran Maravar</h1>
 <h3 align="center">𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙯𝙞𝙣𝙜 𝙞𝙣 𝙉𝙇𝙋 𝙖𝙣𝙙 𝙇𝙇𝙈 𝙩𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨 𝙬𝙞𝙩𝙝 𝙖 𝙛𝙤𝙘𝙪𝙨 𝙤𝙣 𝙘𝙡𝙤𝙪𝙙 𝙙𝙚𝙥𝙡𝙤𝙮𝙢𝙚𝙣𝙩.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
