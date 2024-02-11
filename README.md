@@ -4,7 +4,9 @@
 
 
 
-- 🌱I have Experience with **LangChain , OpenCV , Docker , Google Cloud Platform, Natural Language Processing (NLP), API Development**
+- 🌱Hello, I am Rakesh Kanneeswaran, and I specialise in backend web development. I have a strong passion for utilizing artificial intelligence to create impactful interfaces for compelling solutions. 
+
+As a dedicated learnerl, I am constantly seeking growth opportunities and exploring new technologies within the industry.
 
 - 📫 How to reach me **rakikanneeswaran@gmail.com**
 
