@@ -48,10 +48,10 @@ The modified image is then relayed back to the React app. Additionally, the Flas
 Developed a AI chatbot for document quires with Google Palm model and Langchain.
 
 
- ### 🏆 Secured 1st place in Appthon 2023 , Cintel and HCL Technologies Limited 2023
+ ### 🏆 Secured 1st place in Appthon 2023 
 
 
- #### Issued by Department of Computational Intelligence SRM Institute of Science and Technology
+ #### Issued by Department of Computational Intelligence SRM Institute of Science and Technology and HCL Technologies Limited 
 
 Developed an advanced multi-layered security system using computer vision and cloud computing, integrating on-device machine learning for authentication.
 
