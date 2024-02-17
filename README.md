@@ -1,19 +1,67 @@
 
-<h1 align="center">Hi 👋, I'm Rakesh Kanneeswaran Maravar</h1>
-<h3 align="center">𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙯𝙞𝙣𝙜 𝙞𝙣 𝙉𝙇𝙋 𝙖𝙣𝙙 𝙇𝙇𝙈 𝙩𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨 𝙬𝙞𝙩𝙝 𝙖 𝙛𝙤𝙘𝙪𝙨 𝙤𝙣 𝙘𝙡𝙤𝙪𝙙 𝙙𝙚𝙥𝙡𝙤𝙮𝙢𝙚𝙣𝙩.</h3>
+# About Me
+
+Hello, I am Rakesh Kanneeswaran, and I specialise in backend web development. I have a strong passion for utilizing artificial intelligence to create impactful interfaces for compelling solutions. 
+
+I am constantly seeking growth opportunities and exploring new technologies within the industry.
 
 
 
-- 🌱Hello, I am Rakesh Kanneeswaran, and I specialise in backend web development. I have a strong passion for utilizing artificial intelligence to create impactful interfaces for compelling solutions. 
 
-As a dedicated learnerl, I am constantly seeking growth opportunities and exploring new technologies within the industry.
 
-- 📫 How to reach me **rakikanneeswaran@gmail.com**
+# Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rakeshkanneeswaran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakeshkanneeswaran/" height="30" width="40" /></a>
-<a href="[https://instagram.com/https://www.instagram.com/](https://www.linkedin.com/in/rakeshkanneeswaran/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
+**Backend:** Node.js, Express.js , Postgress , MogoDB , Mongoose , Prisma
 
-</p>
+**Frontend:** React.js, Redux, Tailwind , Next.js
+
+**Deployment :** Amazone Web Services , Coudflare , Docker , Ignix
+
+**AI ML :** Open CV , Natuiral language processing , Langchain ,Flask
+
+**languages:** Javascript, Typescript, Python , C++ , Java , Swift 
+
+
+
+
+
+
+
+
+# Appreciation & Awards
+
+
+
+### 🏆 Secured 1st position in Pentathon
+
+####  Organised Next Gen AI And Bajaj Finserv Limited 
+My project RaidexAI integrates Roboflow to detect anomalies such as brain tumors, Alzheimer's, kidney tumors, and ACL injuries, providing coordinates of the detected anomalies.
+
+Subsequently, the output is transmitted to a Flask server where OpenCV is employed to create the Region of Interest (ROI) in the image.
+
+The modified image is then relayed back to the React app. Additionally, the Flask server utilizes a Language Model (LLM) to perform contextual analysis of the image, interpreting its content alongside the detected anomalies.
+
+  ### 🏆 Secured 1st position in OS Hack
+
+####  Issued by Department of Computing Technologies, School of Computing
+
+Developed a AI chatbot for document quires with Google Palm model and Langchain.
+
+
+ ### 🏆 Secured 1st place in Appthon, in association with HCL Technologies Limited
+
+
+ #### Issued by Department of Computational Intelligence SRM Institute of Science and Technology
+
+Developed an advanced multi-layered security system using computer vision and cloud computing, integrating on-device machine learning for authentication.
+
+### 🏆 Winners at the National Level Project Exhibition, "The Idea Explorer 2023"
+
+####  Issued by Department of Computer Science and Engineering with specialisation in Big Data Analytics at SRM Institute of Science and Technology
+
+Developed an Artificial Intelligence Model ingergrated with Microsdt LIDA and deployed it in Google Cloud Platform. 
+
+This application helps automatially generate visualizations and infographics with LLMs.
+
+
 
