@@ -32,7 +32,7 @@ I am constantly seeking growth opportunities and exploring new technologies with
 
 
 
-### 🏆 Secured 1st position in Pentathon
+### 🏆 Secured 1st position in Pentathon 2024
 
 ####  Organised Next Gen AI And Bajaj Finserv Limited 
 My project RaidexAI integrates Roboflow to detect anomalies such as brain tumors, Alzheimer's, kidney tumors, and ACL injuries, providing coordinates of the detected anomalies.
@@ -41,14 +41,14 @@ Subsequently, the output is transmitted to a Flask server where OpenCV is employ
 
 The modified image is then relayed back to the React app. Additionally, the Flask server utilizes a Language Model (LLM) to perform contextual analysis of the image, interpreting its content alongside the detected anomalies.
 
-  ### 🏆 Secured 1st position in OS Hack
+  ### 🏆 Secured 1st position in OS Hack 2023
 
 ####  Issued by Department of Computing Technologies, School of Computing
 
 Developed a AI chatbot for document quires with Google Palm model and Langchain.
 
 
- ### 🏆 Secured 1st place in Appthon, in association with HCL Technologies Limited
+ ### 🏆 Secured 1st place in Appthon 2023 , Cintel and HCL Technologies Limited 2023
 
 
  #### Issued by Department of Computational Intelligence SRM Institute of Science and Technology
