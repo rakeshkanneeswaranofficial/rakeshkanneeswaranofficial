@@ -60,38 +60,28 @@ I am constantly seeking growth opportunities and exploring new technologies with
 
 # Appreciation & Awards
 
+### 🏆 1st Position in Pentathon 2024
+- Organized by Next Gen AI and Bajaj Finserv Limited
+- **Project:** RaidexAI
+  - Integrated Roboflow to detect anomalies in radiology images providing coordinates of the detected anomalies.
+  - Utilized Flask server with OpenCV to create the Region of Interest (ROI) in the image.
+  - Employed a Language Model (LLM) for contextual analysis of the image alongside the detected anomalies.
 
+### 🏆 1st Position in OS Hack 2023
+- Issued by Department of Computing Technologies, School of Computing
+- **Project:** AI chatbot for document queries
+  - Developed with Google Palm model and Langchain.
 
-### 🏆 Secured 1st position in Pentathon 2024
-
-####  Organised Next Gen AI And Bajaj Finserv Limited 
-My project RaidexAI integrates Roboflow to detect anomalies such as brain tumors, Alzheimer's, kidney tumors, and ACL injuries, providing coordinates of the detected anomalies.
-
-Subsequently, the output is transmitted to a Flask server where OpenCV is employed to create the Region of Interest (ROI) in the image.
-
-The modified image is then relayed back to the React app. Additionally, the Flask server utilizes a Language Model (LLM) to perform contextual analysis of the image, interpreting its content alongside the detected anomalies.
-
-  ### 🏆 Secured 1st position in OS Hack 2023
-
-####  Issued by Department of Computing Technologies, School of Computing
-
-Developed a AI chatbot for document quires with Google Palm model and Langchain.
-
-
- ### 🏆 Secured 1st place in Appthon 2023 
-
-
- #### Issued by Department of Computational Intelligence SRM Institute of Science and Technology and HCL Technologies Limited 
-
-Developed an advanced multi-layered security system using computer vision and cloud computing, integrating on-device machine learning for authentication.
+### 🏆 1st Place in Appthon 2023
+- Issued by Department of Computational Intelligence, SRM Institute of Science and Technology, and HCL Technologies Limited
+- **Project:** part of team which built digiral booking system
+  - Used computer vision and cloud computing, integrating on-device machine learning for authentication.
 
 ### 🏆 Winners at the National Level Project Exhibition, "The Idea Explorer 2023"
+- Issued by Department of Computer Science and Engineering with specialization in Big Data Analytics at SRM Institute of Science and Technology
+- **Project:** Artificial Intelligence Model integrated with Microsoft LIDA
+  - Deployed in Google Cloud Platform to automatically generate visualizations and infographics with LLMs.
 
-####  Issued by Department of Computer Science and Engineering with specialisation in Big Data Analytics at SRM Institute of Science and Technology
-
-Developed an Artificial Intelligence Model ingergrated with Microsdt LIDA and deployed it in Google Cloud Platform. 
-
-This application helps automatially generate visualizations and infographics with LLMs.
 
 
 
