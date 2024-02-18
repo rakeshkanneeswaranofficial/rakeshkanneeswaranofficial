@@ -43,10 +43,6 @@ I am constantly seeking growth opportunities and exploring new technologies with
 - Experienced in deploying applications to AWS servers and utilizing Nginx for reverse proxy configurations.
 - Familiar with serverless backends and deployment practices in newer cloud environments like Fly/Remix.
 
-## Foundation & Fundamentals:
-- Proficient in foundational JavaScript concepts and leveraging its asynchronous nature for efficient event-driven programming.
-- Experienced in TypeScript from beginner to advanced levels, enhancing code readability and maintainability.
-
 ## DevOps & Infrastructure:
 - Proficient in basic DevOps practices and infrastructure management.
 
