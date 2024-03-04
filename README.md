@@ -59,7 +59,7 @@ I am constantly seeking growth opportunities and exploring new technologies with
 ### 🏆 1st Position in Pentathon 2024
 - Organized by Next Gen AI and Bajaj Finserv Limited
 - **Project:** RaidexAI
-  - Integrated Roboflow to detect anomalies in radiology images providing coordinates of the detected anomalies.
+  - Integrated ML Model to detect anomalies in radiology images providing coordinates of the detected anomalies.
   - Utilized Flask server with OpenCV to create the Region of Interest (ROI) in the image.
   - Employed a Language Model (LLM) for contextual analysis of the image alongside the detected anomalies.
 
