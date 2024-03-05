@@ -35,7 +35,7 @@ I am constantly seeking growth opportunities and exploring new technologies with
 ## AI & ML:
 - Proficient in OpenCV for computer vision applications.
 - Experienced in natural language processing (NLP) techniques for text analysis and language understanding.
-- Familiar with Langchain for blockchain-related applications.
+- Familiar with Langchain for Prompt Engineering.
 - Skilled in building web applications with Flask, a Python web framework.
 
 ## Development Tools & Deployment:
