@@ -34,7 +34,6 @@ I am constantly seeking growth opportunities and exploring new technologies with
 - Experienced in authentication mechanisms and implementing in-house authentication using NextAuth.
 
 ## AI & ML:
-- Proficient in OpenCV for computer vision applications.
 - Experienced in natural language processing (NLP) techniques for text analysis and language understanding.
 - Familiar with Langchain for Prompt Engineering.
 - Skilled in building web applications with Flask, a Python web framework.
