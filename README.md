@@ -40,8 +40,7 @@ I am constantly seeking growth opportunities and exploring new technologies with
 
 
 
-## DevOps & Infrastructure:
-- Proficient in basic DevOps practices and infrastructure management.
+
 
 # Appreciation & Awards
 
