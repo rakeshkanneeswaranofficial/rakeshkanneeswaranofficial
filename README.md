@@ -1,18 +1,13 @@
-
 # About Me
 
-Hello, I am Rakesh Kanneeswaran, and I specialise in backend web development. I have a strong passion for utilizing artificial intelligence to create impactful interfaces for compelling solutions. 
+Hello, I am Rakesh Kanneeswaran, and I specialize in backend web development. I have a strong passion for utilizing artificial intelligence to create impactful interfaces for compelling solutions. 
 
 I am constantly seeking growth opportunities and exploring new technologies within the industry.
-
-
-
-
 
 # Technical Skills & Expertise
 
 ## Backend Development:
-- Proficient in Node.js and Express.js for building robust backend services and APIs.
+- Proficient in Node.js, Express.js, and Hono for building robust backend services and APIs.
 - Experienced in database management with MongoDB and PostgreSQL, including deep dives into database architecture and optimization.
 - Familiar with ORM tools like Mongoose and Prisma for efficient interaction with databases.
 - Skilled in implementing authentication using external libraries and ensuring API security.
@@ -42,19 +37,18 @@ I am constantly seeking growth opportunities and exploring new technologies with
 - Proficient in Docker for containerization and managing development environments.
 - Experienced in deploying applications to AWS servers and utilizing Nginx for reverse proxy configurations.
 - Familiar with serverless backends and deployment practices in newer cloud environments like Fly/Remix.
+- Knowledgeable in Cloudflare Workers for serverless architecture and deployment.
 
 ## DevOps & Infrastructure:
 - Proficient in basic DevOps practices and infrastructure management.
 
-
-
-
-
-
-
-
-
 # Appreciation & Awards
+
+### 🏆 Secured 1st Position in LEAP'24 (ideathon to hackathon)
+- Issued by IEEE Computer Society SRMIST and Department of Computing Technologies
+- **Project:** AI-driven storytelling application
+  - Features image upload, AI-driven story generation, speech synthesis, and comic creation.
+  - Utilizes CI/CD for automated deployment on AWS S3 and CloudFront for scalable storage and content delivery.
 
 ### 🏆 1st Position in Pentathon 2024
 - Organized by Next Gen AI and Bajaj Finserv Limited
@@ -70,14 +64,12 @@ I am constantly seeking growth opportunities and exploring new technologies with
 
 ### 🏆 1st Place in Appthon 2023
 - Issued by Department of Computational Intelligence, SRM Institute of Science and Technology, and HCL Technologies Limited
-- **Project:** part of team which built digiral booking system
+- **Project:** part of team which built digital booking system
   - Used computer vision and cloud computing, integrating on-device machine learning for authentication.
 
 ### 🏆 Winners at the National Level Project Exhibition, "The Idea Explorer 2023"
 - Issued by Department of Computer Science and Engineering with specialization in Big Data Analytics at SRM Institute of Science and Technology
 - **Project:** Artificial Intelligence Model integrated with Microsoft LIDA
   - Deployed in Google Cloud Platform to automatically generate visualizations and infographics with LLMs.
-
-
 
 
