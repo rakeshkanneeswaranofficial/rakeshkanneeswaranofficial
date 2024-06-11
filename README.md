@@ -6,7 +6,7 @@ Hello, I'm Rakesh Kanneeswaran, a full-stack web developer with hands-on experie
 </h4>
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,cpp,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,cpp)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
