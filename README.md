@@ -60,13 +60,12 @@
 
 | Category        | Skills        |
 |-----------------|---------------|
-| IDE & Environment | [![](https://skillicons.dev/icons?i=apple,vscode,obsidian,neovim,replit,pycharm,androidstudio,anaconda)] |
-| Languages | [![](https://skillicons.dev/icons?i=js,ts,py,java,cpp,html,bash,)] |
-| Frameworks| [![](https://skillicons.dev/icons?i=nextjs,react,express,nodejs,flask,vite,vitest)] |
-| Database & ORM | [![](https://skillicons.dev/icons?i=mongodb,graphql,postgres,mysql,redis,prisma)] |
-| Services & Tools| [![](https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,cloudflare)] |
-| Styling & Frameworks | [![](https://skillicons.dev/icons?i=css,tailwind,sass,bootstrap,materialui)] |
-| Hosting         | [![](https://skillicons.dev/icons?i=vercel,netlify,heroku)] |
-| APIs | [![](https://skillicons.dev/icons?i=postman,fastapi)]  |
-| IoT | [![](https://skillicons.dev/icons?i=raspberrypi)]  |
-
+| IDE & Environment | ![](https://skillicons.dev/icons?i=apple,vscode,obsidian,neovim,replit,pycharm,androidstudio,anaconda) |
+| Languages | ![](https://skillicons.dev/icons?i=js,ts,py,java,cpp,html,bash) |
+| Frameworks| ![](https://skillicons.dev/icons?i=nextjs,react,express,nodejs,flask,vite,vitest) |
+| Database & ORM | ![](https://skillicons.dev/icons?i=mongodb,graphql,postgres,mysql,redis,prisma) |
+| Services & Tools| ![](https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,cloudflare) |
+| Styling & Frameworks | ![](https://skillicons.dev/icons?i=css,tailwind,sass,bootstrap,materialui) |
+| Hosting         | ![](https://skillicons.dev/icons?i=vercel,netlify,heroku) |
+| APIs | ![](https://skillicons.dev/icons?i=postman,fastapi)  |
+| IoT | ![](https://skillicons.dev/icons?i=raspberrypi)  |
